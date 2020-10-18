@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vasty\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vasty\\.nuget\\packages"
+    ]
+  }
+}

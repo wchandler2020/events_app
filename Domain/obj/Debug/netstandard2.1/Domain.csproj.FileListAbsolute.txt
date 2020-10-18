@@ -1,0 +1,9 @@
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\Domain\obj\Debug\netstandard2.1\Domain.pdb
