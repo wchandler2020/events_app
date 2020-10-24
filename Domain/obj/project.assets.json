@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vasty\\OneDrive\\Desktop\\.NetCore\\activities_app\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\Users\\vasty\\OneDrive\\Desktop\\.NetCore\\activities_app\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\vasty\\OneDrive\\Desktop\\.NetCore\\activities_app\\Domain\\Domain.csproj",
+      "projectPath": "c:\\Users\\vasty\\OneDrive\\Desktop\\.NetCore\\activities_app\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\vasty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vasty\\OneDrive\\Desktop\\.NetCore\\activities_app\\Domain\\obj\\",
+      "outputPath": "c:\\Users\\vasty\\OneDrive\\Desktop\\.NetCore\\activities_app\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vasty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

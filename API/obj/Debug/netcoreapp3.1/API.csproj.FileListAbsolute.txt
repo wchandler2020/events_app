@@ -51,3 +51,5 @@ C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\API\bin\Debug\netcoreapp
 C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\vasty\OneDrive\Desktop\.NetCore\activities_app\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll

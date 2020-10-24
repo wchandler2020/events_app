@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "O5b3SL+ysi/9uIN7nPO+NdqErCRrMyhlzDHCBbuFFwlQUBNR01eS1cYO3YNqvB55xPIEn3gOwTQeUM+Kb2RwtA==",
+  "dgSpecHash": "DCi/dtmrvDrJZ9Fksn86b3afC/1acnwUGgQs25522inwwnrLVKlFgjGSr1lCBTtg8MR7c3+rKOXHZ2N+swHgOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\vasty\\OneDrive\\Desktop\\.NetCore\\activities_app\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\vasty\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\vasty\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\vasty\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\vasty\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\vasty\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.0\\microsoft.data.sqlite.core.3.1.0.nupkg.sha512",
